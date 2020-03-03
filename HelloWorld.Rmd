@@ -1,0 +1,14 @@
+---
+title: "HelloWorld"
+author: "J Bikis"
+date: "3/2/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a Markdown file
+
+This is a file created to meet the requirements of the Data Science Toolkit course in [Coursera](http://www.coursera.org) 
